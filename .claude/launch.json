@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tracker",
+      "runtimeExecutable": "C:/Users/timot/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0/python.exe",
+      "runtimeArgs": ["-m", "streamlit", "run", "app.py", "--server.port", "8517", "--server.headless", "true"],
+      "port": 8517, "autoPort": false
+    }
+  ]
+}
